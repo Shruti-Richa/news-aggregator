@@ -1,6 +1,7 @@
 # News Aggregator Website
 
 A responsive and user-friendly news aggregator website built with HTML, CSS, JavaScript, and TailwindCSS. It fetches real-time news articles using the News API and provides a clean and modern interface for users to search, filter, and access news from various categories.
+![Screenshot](img/Screenshot%202024-08-28%20192718.png)
 
 ## Features
 - **Real-Time News Integration:** Fetches and displays articles from categories like technology, sports, and entertainment using the News API.
